@@ -11,3 +11,10 @@ Tools: Python, Numpy, Pandas, Seaborn, Matplotlib, Scipy
 - Creates linear regression lines based on the historical data using scipy to predict the sea level in the future
 - Utilizes matplotlib to display the findings graphically
 - Presents write-up of the analysis 
+
+## [Website Page Views Analysis](https://github.com/dylanjones248/Data-Science-Portfolio/blob/main/Website%20Page%20Views%20Analysis.ipynb)
+
+- Imports CSV file of the page view data from a website over time
+- Cleans data by removing top and bottom 2.5% of data
+- Displays page view data graphically utilizing matplotlib and seaborn
+- Presents findings and provides recommendations of how to utilize and improve the data
