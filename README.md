@@ -5,6 +5,10 @@ Here is a repository of data science projects completed for academic and self-le
 
 Tools: Python, Numpy, Pandas, Seaborn, Matplotlib, Scipy
 
+## [Carvana Price Predictor](https://github.com/dylanjones248/Data-Science-Portfolio/blob/main/Carvana%20Price%20Predictor.ipynb)
+
+
+
 ## [Sea Level Predictor](https://github.com/dylanjones248/Data-Science-Portfolio/blob/main/Sea%20Level%20Predictor.ipynb)
 
 - Imports CSV file of historical sea level data
