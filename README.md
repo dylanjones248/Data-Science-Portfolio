@@ -3,7 +3,7 @@ My skill set focuses on transforming large amounts of data into meaningful and u
 
 Here is a repository of data science projects completed for academic and self-learning purposes. These projects are presented in the form of Jupyter Notebooks.
 
-Tools: Python, Numpy, Pandas, Seaborn, Matplotlib, Scipy, Scikit-learn
+Tools: Python, Numpy, Pandas, Seaborn, Matplotlib, Scipy, Scikit-Learn
 
 ## [Carvana Price Predictor](https://github.com/dylanjones248/Data-Science-Portfolio/blob/main/Carvana%20Price%20Predictor.ipynb)
 
