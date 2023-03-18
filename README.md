@@ -1,5 +1,5 @@
 # Data Science Portfolio
-My skill set focuses on transforming large amounts of data into meaningful and understandable insights. It excites me to tell stories through data, which help companies make strategic decisions. By leveraging my business background, I am well-equipped to clearly communicate the results of data analysis to various stakeholders. 
+My skill set focuses on transforming large amounts of data into meaningful and understandable insights. It excites me to tell stories through data and help companies make strategic decisions. By leveraging my business background, I am well-equipped to clearly communicate the results of data analysis to various stakeholders. 
 
 Here is a repository of data science projects completed for academic and self-learning purposes. These projects are presented in the form of Jupyter Notebooks.
 
