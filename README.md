@@ -15,6 +15,12 @@ Tools: Python, Numpy, Pandas, Seaborn, Matplotlib, Scipy, Scikit-Learn
 - Evaluated linear regression, random forest and XGBoost models based on the coefficient of determination and the mean absolute error to determine which machine learning model best predicted car price
 
 
+## [Superstore Sales Dashboard](https://github.com/dylanjones248/Data-Science-Portfolio/blob/main/Superstore%20Sales.ipynb)
+
+- Explored and cleaned dataset of 9,800 sales from a superstore before creating a sales dashboard in Tableau
+- Utilized Pandas to fill in null values, remove duplicates, update data types, modify formatting, and identify unique categorical values
+- Created visuals with MatPlotLib to more easily identify abnormailities in the sales data
+
 ## [Sea Level Predictor](https://github.com/dylanjones248/Data-Science-Portfolio/blob/main/Sea%20Level%20Predictor.ipynb)
 
 - Produced visuals that show evidence of the increasing rate of change in sea level using linear regression 
