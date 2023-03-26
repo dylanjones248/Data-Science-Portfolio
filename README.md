@@ -20,6 +20,7 @@ Tools: Python, Numpy, Pandas, Seaborn, Matplotlib, Scipy, Scikit-Learn
 - Explored and cleaned dataset of 9,800 sales from a superstore before creating a sales dashboard in Tableau
 - Utilized Pandas to fill in null values, remove duplicates, update data types, modify formatting, and identify unique categorical values
 - Created visuals with MatPlotLib to more easily identify abnormailities in the sales data
+- [View Superstore Sales Dashboard](https://public.tableau.com/app/profile/dylan.jones3090/viz/SuperstoreSalesDashboard_16796251454110/SalesDashboard?publish=yes)
 
 ## [Sea Level Predictor](https://github.com/dylanjones248/Data-Science-Portfolio/blob/main/Sea%20Level%20Predictor.ipynb)
 
