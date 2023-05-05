@@ -5,7 +5,7 @@ Here is a repository of data science projects completed for academic and self-le
 
 Tools: Python, Numpy, Pandas, Seaborn, Matplotlib, Scipy, Scikit-Learn, Tableau
 
-## [Sales Dashboard](https://github.com/dylanjones248/Data-Science-Portfolio/blob/main/Superstore%20Sales%20Dashboard.ipynb)
+## [Sales Dashboard](https://github.com/dylanjones248/Data-Science-Portfolio/blob/main/Sales%20Dashboard.ipynb)
 
 - Designed and built interactive product sales dashboard in Tableau to visually present insights of year-to-date performance
 - Identified KPIs of product sales and determined most effective visualization methods for managers to utilize the data
