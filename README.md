@@ -5,7 +5,7 @@ Here is a repository of data science projects completed for academic and self-le
 
 Tools: Python, Numpy, Pandas, Seaborn, Matplotlib, Scipy, Scikit-Learn, Tableau
 
-## [Customer Segmentation Analysis](https://github.com/dylanjones248/Data-Science-Portfolio/blob/main/Sales%20Dashboard.ipynb)
+## [Customer Segmentation Analysis](https://github.com/dylanjones248/Data-Science-Portfolio/blob/main/Customer%20Segmentation%20Analysis.ipynb)
 
 - Examined product order data to segment customer base and calculate the customer lifetime value to better understand customer behavior for strategic marketing, efficient resource allocation, and improved customer retention
 - Utilized machine learning algorithm in Python to segment customers based on recency, frequency, and monetary analysis
