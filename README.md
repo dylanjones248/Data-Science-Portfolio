@@ -5,6 +5,15 @@ Here is a repository of data science projects completed for academic and self-le
 
 Tools: Python, Numpy, Pandas, Seaborn, Matplotlib, Scipy, Scikit-Learn, Tableau
 
+## [Sales Dashboard](https://github.com/dylanjones248/Data-Science-Portfolio/blob/main/Superstore%20Sales%20Dashboard.ipynb)
+
+- Designed and built interactive product sales dashboard in Tableau to visually present insights of year-to-date performance
+- Identified KPIs of product sales and determined most effective visualization methods for managers to utilize the data
+- Explored and cleaned dataset of 9,800 sales from a superstore before creating a sales dashboard in Tableau
+- Utilized Pandas to fill in null values, remove duplicates, update data types, modify formatting, and identify unique categorical values
+- Created visuals with MatPlotLib to more easily identify abnormailities in the sales data
+- [View Superstore Sales Dashboard](https://public.tableau.com/app/profile/dylan.jones3090/viz/SuperstoreSalesDashboard_16796251454110/SalesDashboard?publish=yes)
+
 ## [Carvana Price Predictor](https://github.com/dylanjones248/Data-Science-Portfolio/blob/main/Carvana%20Price%20Predictor.ipynb)
 
 - Found relationship between the class of car brand, age, and mileage to build a model that predicts the car’s price
@@ -13,16 +22,6 @@ Tools: Python, Numpy, Pandas, Seaborn, Matplotlib, Scipy, Scikit-Learn, Tableau
 - Designed visualizations with MatPlotLib and Seaborn to learn more about the relationships between each variable as well as show insights about the data set such the top 20 selling cars and the distributions of the numeric fields
 - Manipulated dataframe to prepare for machine learning models by converting the name field into a binary variable
 - Evaluated linear regression, random forest and XGBoost models based on the coefficient of determination and the mean absolute error to determine which machine learning model best predicted car price
-
-
-## [Superstore Sales Dashboard](https://github.com/dylanjones248/Data-Science-Portfolio/blob/main/Superstore%20Sales%20Dashboard.ipynb)
-
-- Designed and built interactive product sales dashboard in Tableau to visually present insights of year-to-date performance
-- Identified KPIs of product sales and determined most effective visualization methods for managers to utilize the data
-- Explored and cleaned dataset of 9,800 sales from a superstore before creating a sales dashboard in Tableau
-- Utilized Pandas to fill in null values, remove duplicates, update data types, modify formatting, and identify unique categorical values
-- Created visuals with MatPlotLib to more easily identify abnormailities in the sales data
-- [View Superstore Sales Dashboard](https://public.tableau.com/app/profile/dylan.jones3090/viz/SuperstoreSalesDashboard_16796251454110/SalesDashboard?publish=yes)
 
 ## [Sea Level Predictor](https://github.com/dylanjones248/Data-Science-Portfolio/blob/main/Sea%20Level%20Predictor.ipynb)
 
